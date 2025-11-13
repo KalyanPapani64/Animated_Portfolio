@@ -26,6 +26,12 @@ const Service = () => {
             githubLink: "https://github.com/KalyanPapani64/Employee-Management-System",
         },
         {
+            title: "IoT-Based Temperature and Humidity Monitoring System",
+            description: "This project involves developing an IoT-based monitoring and control system using NodeMCU (ESP8266) microcontroller. The system integrates multiple communication protocols and cloud storage capabilities",
+            technologies: "NodeMCU(ESP8266), DHT sensor (temperature and humidity), Bluetooth module (HC-05/HC-06), ThingSpeak",
+            githubLink: "NA",
+        },
+        {
             title: "Online Portfolio",
             description: "Developed a responsive portfolio website showcasing technical skills and projects using modern web technologies for enhanced user experience.",
             technologies: "Bootstrap, React, HTTPS, MySQL, Python Flask",
